@@ -2,7 +2,7 @@
 
 > A lightweight, efficient Python suite designed to automatically **generate** realistic mock log data and **parse/analyze** system or server logs for quick insights and security audits.
 
----
+--- 
 
 ## 🚀 Features
 
